@@ -16,5 +16,5 @@
     <p>Loading products...</p>
 </section>
 
-<script src="${pageContext.request.contextPath}/js/products.js"></script>
+
 <%@ include file="/WEB-INF/jspf/footer.jspf" %>
