@@ -92,3 +92,5 @@ if (categorySelect) categorySelect.addEventListener("change", loadProducts);
 
 loadProducts();
 
+
+// Trigger fresh Railway deployment for product images
